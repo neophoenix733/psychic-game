@@ -7,7 +7,7 @@ var losses = 0;
 var guesses = 9;
 var guessesLeft = 9;
 var guessedLetters = [];
-var letterToGuess = null;
+var letterToGuess;
 
 
 
@@ -68,4 +68,11 @@ document.onkeyup = function(event) {
             reset();
         }
 };
+
+// functions
+// if else
+// for loops 
+// variables
+
+dev.twitter.com
 
